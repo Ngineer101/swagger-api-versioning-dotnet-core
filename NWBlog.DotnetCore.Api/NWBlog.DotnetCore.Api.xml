@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NWBlog.DotnetCore.Api</name>
+    </assembly>
+    <members>
+        <member name="M:NWBlog.DotnetCore.Api.Controllers.MessageController.Get(System.Int32)">
+            <summary>
+            Gets message by ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
