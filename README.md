@@ -1,4 +1,4 @@
-# Set up Swagger and API versioning for ASP.NET Core 5 web API
+# Set up Swagger and API versioning in .NET 5 web API
 
 Check out this blog post:
 
